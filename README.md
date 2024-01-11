@@ -1,4 +1,13 @@
 # CodingTest
+코드 작성 요령.
+
+1. 문제 확인
+   입/출력 예제 꼼꼼히 확인.
+2. 어떤 방법으로 풀지 고민.
+   변수 설정, 변수명, 조건문/ 반복문 디테일하게 설정.
+3. 문제 유형 파악.
+4. 알고리즘 / 시간 복잡도 계산
+
 
 ### Stack
 ![Static Badge](https://img.shields.io/badge/Java-%230769AD?style=for-the-badge&logo=CoffeeScript&logoColor=white&labelColor=0769AD)
