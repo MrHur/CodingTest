@@ -8,6 +8,8 @@
 3. 문제 유형 파악.
 4. 알고리즘 / 시간 복잡도 계산
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okstreet)](https://solved.ac/MrHur/CodingTest)<br/>
+
 
 ### Stack
 ![Static Badge](https://img.shields.io/badge/Java-%230769AD?style=for-the-badge&logo=CoffeeScript&logoColor=white&labelColor=0769AD)
