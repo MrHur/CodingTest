@@ -8,7 +8,7 @@
 3. 문제 유형 파악.
 4. 알고리즘 / 시간 복잡도 계산
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrHur&show_icons=true&theme=dracula)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okstreet)](https://solved.ac/MrHur/CodingTest)<br/>
 
