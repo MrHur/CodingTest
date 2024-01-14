@@ -1,17 +1,26 @@
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.StringTokenizer;
 
-public class Main{
-	public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int T = sc.nextInt();   
-        int a;
-        int x;
-        for(a=1, x=1; a<=T; a++, x++){
-            int A = sc.nextInt();
-            int B = sc.nextInt(); 
-            int C = A+B;
-            System.out.println("Case #"+x+": "+A+" + "+B+" = "+C);
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        int T = Integer.parseInt(st.nextToken());
+        for (int i=0; i<T; i++){
+            st = new StringTokenizer(br.readLine());
+            int a = Integer.parseInt(st.nextToken());
+            int b = Integer.parseInt(st.nextToken());
+            int c = a + b;
+            bw.write("Case #" + (i+1) + ": " + a + " + " + b + " = " + c + "\n");
+            
         }
-        sc.close();
+       bw.flush(); 
+       bw.close();
+       br.close();
     }
 }
