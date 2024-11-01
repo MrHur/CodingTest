@@ -16,7 +16,7 @@ public class Main {
 		for(int i=0; i<N.length; i++) {
 		System.out.print(N[i]+" ");
 		}
-		// 스캐너를 닫음.
+	    
 		sc.close();
     }
 }
