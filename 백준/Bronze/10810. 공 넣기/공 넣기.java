@@ -15,8 +15,7 @@ public class Main {
 		}
 		for(int i=0; i<N.length; i++) {
 		System.out.print(N[i]+" ");
-		}
-	    
+		}	    
 		sc.close();
     }
 }
