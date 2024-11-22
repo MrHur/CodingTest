@@ -26,8 +26,6 @@ public class Main {
         for (int j = 0; j < N.length; j++) {
             System.out.print(N[j] + " ");
         }
-
-        // 스캐너를 닫음.
         sc.close();
 	}
 }
