@@ -16,14 +16,11 @@ public class Main {
 			StringTokenizer st = new StringTokenizer(str);
 			int a = Integer.parseInt(st.nextToken());
 			int b = Integer.parseInt(st.nextToken());
-//			System.out.println(a);
-//			System.out.println(b);
 
-				int sum = a + b;
-				bw.write(String.valueOf(sum));
-				bw.newLine();
-				bw.flush();
-
+			int sum = a + b;
+			bw.write(String.valueOf(sum));
+			bw.newLine();
+			bw.flush();
 		}
 		br.close();
 		bw.close();
