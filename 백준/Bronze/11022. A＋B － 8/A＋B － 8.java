@@ -16,8 +16,7 @@ public class Main {
             int a = Integer.parseInt(st.nextToken());
             int b = Integer.parseInt(st.nextToken());
             int c = a + b;
-            bw.write("Case #" + (i+1) + ": " + a + " + " + b + " = " + c + "\n");
-            
+            bw.write("Case #" + (i+1) + ": " + a + " + " + b + " = " + c + "\n");            
         }
        bw.flush(); 
        bw.close();
