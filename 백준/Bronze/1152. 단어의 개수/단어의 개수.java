@@ -10,7 +10,6 @@ public class Main {
 		 * string 을 charAt 으로 한 글자씩 받아서 if 문에서 값이 " " 공백일 경우 count++ print 문으로 count + 1
 		 * 출력
 		 */
-
 		Scanner sc = new Scanner(System.in);
 		String S = sc.nextLine();
 		sc.close();
