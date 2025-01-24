@@ -22,7 +22,6 @@ public class Main {
 			newAvg = avg / max * 100;
 		}
 		System.out.print(newAvg);
-
 		// 스캐너를 닫음.
 		sc.close();
 	}
