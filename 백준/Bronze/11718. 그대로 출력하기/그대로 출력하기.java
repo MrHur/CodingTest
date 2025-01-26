@@ -6,7 +6,6 @@ public class Main {
 	    while(sc.hasNext()){
             System.out.println(sc.nextLine());
 	    }
-	 // 스캐너를 닫음.
 	 sc.close();
 	}
 }
