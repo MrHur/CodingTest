@@ -5,8 +5,7 @@ public class Main{
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();        
         String a = sc.next();
-        int sum = 0;
-        
+        int sum = 0;       
         for(int i=0; i<N; i++){
             int result = a.charAt(i);
             sum += result - 48;
