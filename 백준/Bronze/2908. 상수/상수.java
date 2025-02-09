@@ -12,7 +12,6 @@ public class Main {
 		 * 상수는 수를 거꾸로 읽음 -> 입력 받은 수를 거꾸로 바꿔야함 char 배열로 받아서, 다시 string으로 담아서, 그 수를 비교해서 큰
 		 * 수를 출력.
 		 */
-
 		Scanner sc = new Scanner(System.in);
 		String firstNum = sc.next();
 		String secondNum = sc.next();
