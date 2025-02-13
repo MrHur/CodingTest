@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
+	public static void main(String[] args) {
 	/*
 	 * 동혁이는 오래된 창고를 뒤지다가 낡은 체스판과 피스를 발견했다.
 	 * 
@@ -11,7 +12,6 @@ public class Main {
 	 * 
 	 * 동혁이가 발견한 흰색 피스의 개수가 주어졌을 때, 몇 개를 더하거나 빼야 올바른 세트가 되는지 구하는 프로그램을 작성하시오.
 	 */
-	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int[] a = new int[6];
 		for (int i = 0; i < 6; i++) {
