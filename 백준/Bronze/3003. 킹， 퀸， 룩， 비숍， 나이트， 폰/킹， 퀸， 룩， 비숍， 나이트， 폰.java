@@ -75,7 +75,6 @@ public class Main {
             if (a[0] == 1 && a[1] == 1 && a[2] == 2 && a[3] == 2 && a[4] == 2 && a[5] == 8) {
                 break;
             }
-			
 		}
 		
 		for (int i = 0; i < 6; i++) {
