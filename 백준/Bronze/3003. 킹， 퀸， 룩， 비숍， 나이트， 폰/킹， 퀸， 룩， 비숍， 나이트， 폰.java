@@ -17,7 +17,6 @@ public class Main {
 		for (int i = 0; i < 6; i++) {
 			a[i] = sc.nextInt();
 		}
-
 		int[] count = new int[6];
 		for (int i = 0; i < 6; i++) {
 			count[i] = 0;
@@ -30,7 +29,6 @@ public class Main {
 				a[0] += 1;
 				count[0]++;
 			}
-
 			if (a[1] > 1) {
 				a[1] -= 1;
 				count[1]--;
@@ -38,7 +36,6 @@ public class Main {
 				a[1] += 1;
 				count[1]++;
 			}
-
 
 			if (a[2] > 2) {
 				a[2] -= 1;
