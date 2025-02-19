@@ -44,7 +44,6 @@ public class Main {
 				a[2] += 1;
 				count[2]++;
 			}
-
 			if (a[3] > 2) {
 				a[3] -= 1;
 				count[3]--;
