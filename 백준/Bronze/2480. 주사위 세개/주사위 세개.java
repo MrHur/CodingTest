@@ -18,7 +18,7 @@ public class Main {
 //        	dice 1 3 이 같은 경우.
 			} else if ((dice2 != dice3)&& (dice2 != dice1)) {
 				System.out.print(1000 + dice1 * 100);
-//          dice 1 2 이 같은 경우.
+//              dice 1 2 이 같은 경우.
 			} else if ((dice3 != dice1) && (dice3 != dice2)) {
 				System.out.print(1000 + dice2 * 100);
 			}
