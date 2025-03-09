@@ -10,7 +10,6 @@ public static void main(String[] args) {
 			h.add(sc.nextInt()%42);
 		}
 		System.out.println(h.size());
-		// 스캐너를 닫음.
 		sc.close();
 	}
 }
