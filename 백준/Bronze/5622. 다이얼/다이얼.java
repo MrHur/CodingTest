@@ -19,7 +19,6 @@ public class Main {
 //		각 알파벳에 해당하는 번호 =>  초
 //		입력받은 문자열을 -> char[] 에 넣고 char[] 에 있는거 하나씩 꺼내다가 switch case로 돌릴까?
 //		알파벳의 갯수 -> 만큼 +  때문에   + s.length
-
 		Scanner sc = new Scanner(System.in);
 		String s = sc.next();
 		sc.close();
