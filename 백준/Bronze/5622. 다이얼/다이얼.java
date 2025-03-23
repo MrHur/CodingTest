@@ -34,7 +34,6 @@ public class Main {
 		}
 		System.out.print(result + s.length());
 	}
-
 	private static int getValueBasedOnChar(char value) {
 		switch (value) {
             case 'A':
