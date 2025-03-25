@@ -27,7 +27,6 @@ public class Main {
 			}
 			break;
 		}
-		// 스캐너를 닫음.
 		sc.close();
 	}
 }
