@@ -25,7 +25,6 @@ public class Main {
 		for (int i = 0; i < s.length(); i++) {
 			c[i] = s.charAt(i);
 		}
-
 		int result = 0;
 		for (int i = 0; i < s.length(); i++) {
 			char value = c[i];
