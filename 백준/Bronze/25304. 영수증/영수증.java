@@ -8,7 +8,6 @@ public class Main {
 		int a = 0;
 		int b = 0;
 		int sum = 0;
-
 		while (true) {
 			for (int i = 0; i < N.length; i++) {
 				a = sc.nextInt();
