@@ -9,7 +9,6 @@ public class Main {
 			System.out.print("long ");
 		}
 		System.out.print("int");
-		// 스캐너를 닫음.
 		sc.close();
 	}
 }
