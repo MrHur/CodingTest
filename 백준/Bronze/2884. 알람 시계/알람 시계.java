@@ -6,7 +6,6 @@ public class Main{
 	        int h = sc.nextInt();
 	        int m = sc.nextInt();      
 	        sc.close();
-
 	        // 알람 문제
 	        if(m>45){
 	            System.out.println(h+" "+(m-45));
