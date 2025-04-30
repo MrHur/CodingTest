@@ -16,5 +16,5 @@ public class Main{
 	        }else if(m==45){
 	        	System.out.println(h+" "+(m-45));
 	        }
-	    }
 	}
+}
