@@ -16,7 +16,6 @@ public class Main {
 		} else {
 			System.out.println("F");
 		}
-		
 //		System.out.print(a);
 		sc.close();
 	}
