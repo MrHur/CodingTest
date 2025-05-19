@@ -9,7 +9,6 @@ public class Main {
 			sum += i;
 		}
 		System.out.println(sum);
-		// 스캐너를 닫음.
 		sc.close();
 	}
 }
