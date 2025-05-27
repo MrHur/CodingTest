@@ -8,7 +8,6 @@ public class Main {
 		for (int i = 0; i < N.length; i++) {
 			N[i] = sc.nextLine();
 		}
-
 		char a = 64;
 		char b = 64;
 		for (int j = 0; j < N.length; j++) {
