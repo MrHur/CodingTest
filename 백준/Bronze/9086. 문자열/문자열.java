@@ -20,7 +20,6 @@ public class Main {
 			}
 			System.out.println(String.valueOf(a) + String.valueOf(b));
 		}
-		// 스캐너를 닫음.
 		sc.close();
 	}
 }
