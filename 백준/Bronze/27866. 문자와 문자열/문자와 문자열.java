@@ -13,6 +13,5 @@ public class Main {
 		int n = Integer.parseInt(br.readLine())-1;
 		bw.write(s.charAt(n));
 		bw.flush();
-		
 	}
 }
