@@ -5,7 +5,6 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         String word = sc.nextLine();
         System.out.print(word.length());       
-
         sc.close();
     }
 }
