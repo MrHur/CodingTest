@@ -27,7 +27,6 @@ public class Main {
 				st = new StringTokenizer(br.readLine());
 				for (int j = 0; j < M; j++) {
 					B[i][j] = Integer.parseInt(st.nextToken());
-
 				}
 			}
 			int[][] C = new int[N][M];
