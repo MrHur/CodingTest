@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Main {
-
 	public static void main(String[] args) {
 //	    	1. 문자열 S를 입력 받음.
 //	    	2. 각 문자를 R 번 반복.
