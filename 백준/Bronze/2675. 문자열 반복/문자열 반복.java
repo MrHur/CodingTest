@@ -5,7 +5,6 @@ public class Main {
 //	    	1. 문자열 S를 입력 받음.
 //	    	2. 각 문자를 R 번 반복.
 //	    	3. 새 문자열 P를 만들어서 출력.
-//	    	1. 문자열을 입력 받음.
         Scanner sc = new Scanner(System.in);
         int c = Integer.parseInt(sc.nextLine());
 
