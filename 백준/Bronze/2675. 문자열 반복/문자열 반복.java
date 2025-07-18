@@ -21,7 +21,6 @@ public class Main {
                     P += S.charAt(j);
                 }
             }
-
             System.out.println(P);
         }
     }
