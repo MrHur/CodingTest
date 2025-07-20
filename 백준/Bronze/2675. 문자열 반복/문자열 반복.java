@@ -12,7 +12,7 @@ public class Main {
             String[] input = sc.nextLine().split(" ");
             int R = Integer.parseInt(input[0]);
             String S = input[1];
-
+		
             char[] a = new char[S.length()];
             String P = "";
 
