@@ -16,7 +16,6 @@ public class Main {
 		
 		int max = 0;
 		int index = 0;
-		
 		int count = 0;
 		
 		for(int value : arr) {
@@ -35,3 +34,4 @@ public class Main {
 //		bw.close();
 	}
 }
+
