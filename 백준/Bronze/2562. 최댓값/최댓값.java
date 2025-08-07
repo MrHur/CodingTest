@@ -25,7 +25,6 @@ public class Main {
 				index = count;
 			}
 		}
-		
 		System.out.println(max);
 		System.out.println(index);
 		
@@ -34,4 +33,5 @@ public class Main {
 //		bw.close();
 	}
 }
+
 
