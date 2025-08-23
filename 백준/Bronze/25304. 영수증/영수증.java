@@ -13,7 +13,7 @@ public class Main {
 				a = sc.nextInt();
 				b = sc.nextInt();
 				sum += a * b;
-//				System.out.println(N.length);
+//			System.out.println(N.length);
 			}
 //			System.out.println(sum);
 //			System.out.println(X);
@@ -29,3 +29,4 @@ public class Main {
 		sc.close();
 	}
 }
+
