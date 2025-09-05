@@ -6,7 +6,7 @@ public class Main {
 		int dice1 = sc.nextInt();
 		int dice2 = sc.nextInt();
 		int dice3 = sc.nextInt();
-//              같은 눈 3개
+//          같은 눈 3개
 		if ((dice1 == dice2) && (dice2 == dice3)) {
 			System.out.print(10000 + dice1 * 1000);
 //        	같은 눈 2개
@@ -60,3 +60,4 @@ public class Main {
 		sc.close();
 	}
 }
+
