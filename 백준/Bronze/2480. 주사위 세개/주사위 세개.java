@@ -38,7 +38,7 @@ public class Main {
 //        	dice 1이 dice2보다 큰 경우.
 				if (dice1 > dice2) {
 					System.out.print(dice1 * 100);
-//				dice 2가 dice1보다 큰 경우.
+//			dice 2가 dice1보다 큰 경우.
 				} else if (dice2 > dice1) {
 					System.out.print(dice2 * 100);
 				}
@@ -60,6 +60,7 @@ public class Main {
 		sc.close();
 	}
 }
+
 
 
 
