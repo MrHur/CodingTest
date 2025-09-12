@@ -35,7 +35,7 @@ public class Main {
 				System.out.print(dice3 * 100);
 //        	dice1 과 dice2가 dice3 보다 클 때, 
 			} else if ((dice1 > dice3) && (dice2 > dice3)) {
-//        	dice 1이 dice2보다 큰 경우.
+//        	dice1이 dice2보다 큰 경우.
 				if (dice1 > dice2) {
 					System.out.print(dice1 * 100);
 //			dice 2가 dice1보다 큰 경우.
@@ -60,6 +60,7 @@ public class Main {
 		sc.close();
 	}
 }
+
 
 
 
